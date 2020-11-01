@@ -1,5 +1,5 @@
 # CyberYoddha_CTF
-[Write Up Link](https://github.com/tbart27/Pea_CTF/blob/main/README.md)
+[Write Up Link](https://github.com/tbart27/CyberYoddhaCTF_WriteUp/blob/main/README.md)
 
 ### Team: Bën
 Taylor Bart<br>
