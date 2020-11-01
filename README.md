@@ -33,8 +33,8 @@ Simply given a password protected zip file. at first I thought maybe changing th
 Trivia 2: Who’s operating system was IBM going to buy before MS-DOS? Gary Kildall<br>
 Trivia 3: Which company invented the original hadoop software? Yahoo<br>
 Trivia 5: What is a social engineering attack in which someone watches someone else enter private information such as a password called? shoulder surfing<br>
-A Hacker infiltrated one of Microsoft's servers and set up malware inside. The malware laid dormant for months, being unnoticed by the server admins. On Thanksgiving Day, the malware was activated, and it crashed all of the servers and the entire network. What is this type of malware called? logic bomb<br>
-What programming language has this logo: [trivia1.png]<br>
+Trivia 6: A Hacker infiltrated one of Microsoft's servers and set up malware inside. The malware laid dormant for months, being unnoticed by the server admins. On Thanksgiving Day, the malware was activated, and it crashed all of the servers and the entire network. What is this type of malware called? logic bomb<br>
+Trivia 8: What programming language has this logo: [trivia1.png]<br>
 haskell (the creator's discord handle was also Haskell#1426)<br>
 <br>
 ### Conclusion
