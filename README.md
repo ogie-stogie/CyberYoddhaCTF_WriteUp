@@ -1,9 +1,9 @@
-# Pea_CTF
+# CyberYoddha_CTF
 [Write Up Link](https://github.com/tbart27/Pea_CTF/blob/main/README.md)
 
 ### Team: Bën
 Taylor Bart<br>
-@knadesan<br>
+Kamal Nadesan<br>
 Matt Evans<br>
 John Tiffany<br>
 Ryan Dunn<br>
